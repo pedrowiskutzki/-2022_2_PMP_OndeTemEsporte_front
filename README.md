@@ -9,6 +9,10 @@ Professional qualification for Software Development and Network Infrastructure i
 
 https://serratec.org/residencia/
 
+## Back-end of the project
+
+https://github.com/pedrowiskutzki/2022_2_PMP_OndeTemEsporte_back
+
 ### `npm start`
 
 Runs the app in the development mode.\
