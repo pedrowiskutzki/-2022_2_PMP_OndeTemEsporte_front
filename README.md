@@ -7,7 +7,7 @@ Final work proposal and deliver a project as if it were in a production environm
 Be part of an immersive, agile and free program that trains, employs and is transforming the lives of hundreds of people in the Mountain Region of Rio de Janeiro!
 Professional qualification for Software Development and Network Infrastructure in 5 months.
 
-<a href:"https://serratec.org/residencia/">Join Serratec </a>
+https://serratec.org/residencia/
 
 ### `npm start`
 
